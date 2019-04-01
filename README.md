@@ -13,4 +13,4 @@ Look for an interesting study in Dataverse, OSF, and/or Zenodo
 * What license is available?
 * Can you open the project files?
  
-Upload a Markdown (.md) file to bCourses and your project repo to submit.
+Upload a Markdown (.md) file to bCourses to submit.
