@@ -11,10 +11,10 @@ Upload a Markdown (.md) file to bCourses that answers the following questions ab
 4. How was data gathered
 5. How many observations
 6. How many variables, what are the variables of interest
-  1. Are their string vs numerical values
-  2. Are their grouping or clustering variables
-  3. Which variables would be considered outcome variables?
-  4. Which variables would be considered covariates?
+    1. Are their string vs numerical values
+    2. Are their grouping or clustering variables
+    3. Which variables would be considered outcome variables?
+    4. Which variables would be considered covariates?
 7. Are there missing values ?  How are they coded / dealt with?
 8. Citation of publications, data, etc.
 9. Can you open this /  read this dataset into Jupyter?
