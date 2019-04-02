@@ -4,7 +4,7 @@ This repository will (eventually) contain a sample final project for you to refe
 
 ## Step 1 Assignment
 
-Look for an interesting study in Dataverse, OSF, and/or Zenodo
+This assignment is to be completed first individually and again as a team once you have chosen your data set. Look for an interesting study in Dataverse, OSF, and/or Zenodo
 
 * What is the quality (you can use F.A.I.R) of the information?
 * What is the provenance and collection method of the data?
@@ -13,4 +13,4 @@ Look for an interesting study in Dataverse, OSF, and/or Zenodo
 * What license is available?
 * Can you open the project files?
  
-Upload a Markdown (.md) file to bCourses to submit.
+Upload a Markdown (.md) file to bCourses to submit for the individual assignment. For the team assignment, add the Markdown file to the `subassignments` folder of your Github repo.
