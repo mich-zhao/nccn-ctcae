@@ -13,4 +13,4 @@ This assignment is to be completed first individually and again as a team once y
 * What license is available?
 * Can you open the project files?
  
-Upload a Markdown (.md) file to bCourses to submit for the individual assignment. For the team assignment, add the Markdown file to the `subassignments` folder of your Github repo.
+Upload a Markdown (.md) file to bCourses to submit for the individual assignment. For the team assignment, add the Markdown file to the [`subassignments`](tree/master/subassignments) folder of your Github repo.
