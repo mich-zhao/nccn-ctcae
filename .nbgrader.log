@@ -1,0 +1,12 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/chrispyles/GitHub/final-project
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 3004831f-f77f-4ba5-bbf6-adbe7e81ced7
+[NotebookApp | INFO] 302 GET /notebooks/images/nan.jpg (::1) 1.76ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3004831f-f77f-4ba5-bbf6-adbe7e81ced7
+[NotebookApp | INFO] Saving file at /notebooks/blank-notebook.ipynb
+[NotebookApp | INFO] Starting buffering for 3004831f-f77f-4ba5-bbf6-adbe7e81ced7:c4eb01c690994fe5aa0fdce09a84aa71
